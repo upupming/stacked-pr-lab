@@ -5,3 +5,4 @@ A file for the stack to append lines to.
 - second line
 - third line
 - fourth line
+- fifth line
