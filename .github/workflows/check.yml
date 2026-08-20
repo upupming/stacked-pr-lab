@@ -1,0 +1,13 @@
+name: Check
+on:
+  pull_request:
+  merge_group:
+    types: [checks_requested]
+
+jobs:
+  check:
+    name: Done
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: cat notes.md
