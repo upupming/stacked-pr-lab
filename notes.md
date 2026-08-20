@@ -8,3 +8,4 @@ A file for the stack to append lines to.
 - fifth line
 - sixth line
 - seventh line
+- eighth line
