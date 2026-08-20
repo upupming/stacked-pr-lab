@@ -7,3 +7,4 @@ A file for the stack to append lines to.
 - fourth line
 - fifth line
 - sixth line
+- seventh line
